@@ -1,8 +1,8 @@
 Project Title: Eye Exercise
 
-Description: A web page with two eyes that follow your mouse.
+Description: A web page that features a style guide with two eyes that follow the movement of your mouse across the screen.
 
-How to Run: Downloand all files to your machine and run in your IDE to display an eye that follows the mouse in your browser.
+How to Run: Download all files to your machine and run in your IDE to display eyes that follows the mouse in your browser.
 
 Road Map to Future Improvement: Make the eyes blink when you click near it with the mouse.
 
